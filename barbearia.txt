@@ -1,0 +1,26 @@
+Liberação de agenda 
+0 - somente mês corrente
+1 - libera próximos meses
+
+Gestor
+- cadastrar horários (livremente)
+- cancelar os horários (fake delete) 
+- modal de liquidar o pagamento
+- Cadastrar despesas
+- Fluxo de caixa
+- Configuração da barbearia (nome, email, horário de funcionamento)
+
+Portal do barbeiro
+- cadastrar horário (com base na disponibilidade)
+- Disparar email ou notificação no whatsapp para o barbeiro do agendamento realizado
+
+
+Portal do cliente
+- Ticket / ticket anônimo (opção não quero me identificar)
+- Cancelamento do horário futuro
+- Edição de perfil
+- Disparar email ou notificação no whatsapp para o cliente
+
+
+
+
